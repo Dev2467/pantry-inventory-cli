@@ -1,0 +1,10 @@
+name,quantity,unit,min_quantity
+water,10.0,bottles,2.0
+rice,1.0,bag,1.0
+salt,1.0,container,1.0
+potatoes,1.0,bag,0.0
+cheese,2.0,blocks,0.0
+sugar,1.0,bag,1.0
+flour,3.0,bag,1.0
+butter,2.0,sticks,1.0
+coffe,1.0,bag,1.0

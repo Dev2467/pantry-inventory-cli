@@ -1,0 +1,56 @@
+[
+  {
+    "name": "water",
+    "quantity": 10.0,
+    "unit": "bottles",
+    "min_quantity": 2.0
+  },
+  {
+    "name": "rice",
+    "quantity": 1.0,
+    "unit": "bag",
+    "min_quantity": 1.0
+  },
+  {
+    "name": "salt",
+    "quantity": 1.0,
+    "unit": "container",
+    "min_quantity": 1.0
+  },
+  {
+    "name": "potatoes",
+    "quantity": 1.0,
+    "unit": "bag",
+    "min_quantity": 0.0
+  },
+  {
+    "name": "cheese",
+    "quantity": 2.0,
+    "unit": "blocks",
+    "min_quantity": 0.0
+  },
+  {
+    "name": "sugar",
+    "quantity": 1.0,
+    "unit": "bag",
+    "min_quantity": 1.0
+  },
+  {
+    "name": "flour",
+    "quantity": 3.0,
+    "unit": "bag",
+    "min_quantity": 1.0
+  },
+  {
+    "name": "butter",
+    "quantity": 2.0,
+    "unit": "sticks",
+    "min_quantity": 1.0
+  },
+  {
+    "name": "coffe",
+    "quantity": 1.0,
+    "unit": "bag",
+    "min_quantity": 1.0
+  }
+]
